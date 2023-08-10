@@ -16,4 +16,4 @@ if __name__ == '__main__':
     centre(root)
     mainloop()
     
-#A comment
+# A comment
